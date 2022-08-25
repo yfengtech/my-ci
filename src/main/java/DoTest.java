@@ -6,5 +6,6 @@ public class DoTest {
         System.out.println(jniDemo.instSayHello("World From Instance Method!"));
         System.out.println(JNIDemo.staticSayHello("World From Class Method!"));
         System.out.println(jniDemo.getTotalLengthOfStringArray(new String[]{"xxxxxx"}));
+        // a
     }
 }
